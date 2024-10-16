@@ -1,2 +1,2 @@
-# koding
-ws
+kontol
+
